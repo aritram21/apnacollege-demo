@@ -1,3 +1,4 @@
 # apnacollege-demo
-This is my first git repository
-Author- Aritram 
+This is my first git repository.
+<br>
+Author- Aritram Dutta
